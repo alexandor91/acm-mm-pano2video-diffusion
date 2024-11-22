@@ -65,7 +65,7 @@ def save_depth_map(depth_map, output_path):
 
 if __name__ == "__main__":
     output_depth_file = "depth_0e92a69a50414253a23043758f111cec.png"
-    base_dir = "/home/student.unimelb.edu.au/xueyangk/"
+    base_dir = "/home/student./anonymous/"
     folder = "Equirec2Perspec/PanaromaSamples"
     filename = "0e92a69a50414253a23043758f111cec.jpg"
     input_image_path = os.path.join(base_dir, folder, filename)    

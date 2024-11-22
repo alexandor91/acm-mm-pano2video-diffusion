@@ -55,7 +55,7 @@ def map_perspective_to_panorama(perspective_img, FOV, THETA, PHI, panorama_size)
     
     return panorama
 
-basedir = 'C:\Users\xueyangk\Downloads\PanaromaSamples2Video\Perspect&Pan'
+basedir = 'C:\Users\anonymous\Downloads\PanaromaSamples2Video\Perspect&Pan'
 filename = 'perspectimage.jpg'
 path_dir = os.path.join(basedir, filename)
 # Example Usage

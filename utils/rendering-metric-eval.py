@@ -182,7 +182,7 @@ def evaluate_depth(pred_dir, gt_dir):
 
 if __name__ == "__main__":
     try:
-        base_dir = '/home/student.unimelb.edu.au/xueyangk'
+        base_dir = '/home/student./anonymous'
         
         # RGB evaluation paths
         pred_rgb_folder = 'fast-DiT/data/data/rgb'

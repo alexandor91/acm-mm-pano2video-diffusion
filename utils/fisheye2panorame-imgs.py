@@ -261,7 +261,7 @@ if __name__ == '__main__':
     # height and width is output image dimension
     #
     
-    input_dir = "/home/student.unimelb.edu.au/xueyangk"
+    input_dir = "/home/student./anonymous"
     folder_type = "fast-DiT"
     output_dir = 'example'
 
@@ -271,7 +271,7 @@ if __name__ == '__main__':
     persp_width = 640
     persp_height = 640
 
-    basedir = "/home/student.unimelb.edu.au/xueyangk"
+    basedir = "/home/student./anonymous"
     filename = "0a5c013435/dslr/resized_images"
     intrinsic_folder = "0a5c013435/dslr/colmap"
 

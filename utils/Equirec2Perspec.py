@@ -74,7 +74,7 @@ class Equirectangular:
     
 if __name__ == '__main__':
 
-    base_dir = "/home/student.unimelb.edu.au/xueyangk/"
+    base_dir = "/home/student./anonymous/"
     folder = "Equirec2Perspec/PanaromaSamples"
     filename = "0e92a69a50414253a23043758f111cec.jpg"
     image_path = os.path.join(base_dir, folder, filename)    

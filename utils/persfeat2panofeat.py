@@ -232,7 +232,7 @@ def parse_camera_file(camera_file):
 if __name__ == "__main__":
     # Download all DiT checkpoints
     print("###### main starts#########")
-    base_dir = '/home/student.unimelb.edu.au/xueyangk'
+    base_dir = '/home/student./anonymous'
     folder_type = 'PerspectAndPano'
     filename = '0.jpg'
     pan_vae_features = 'panofeature.npy'

@@ -39,7 +39,7 @@ from sklearn.cluster import DBSCAN
 # Load the depth map image (grayscale)
 # Normalize the depth map (scale values between 0 and 1)
 
-base_dir = "/home/student.unimelb.edu.au/xueyangk/"
+base_dir = "/home/student./anonymous/"
 folder = "PanaromaSamples"
 filename = "c8112f69d34d476fbb29e6b3909deba2.jpg"
 
