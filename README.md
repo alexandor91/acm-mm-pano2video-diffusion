@@ -2,6 +2,8 @@
 
 This repository contains code for core models, and evaluation and common pre-processing utility tools for **Video Diffusion** experiments. It includes large video files and resources for demonstrating and evaluating the performance of diffusion-based models for video synthesis.
 
+As demo video requires lfs to download due to storage limit of github, I also add a google drive link to download the sample demo video here (no identity and account meta data is included in the video, to follow the anonymous rules strictly.): [Download Anonymous Demo Video](https://drive.google.com/file/d/1BzpSGjx3U_Un3T3To4xW7xchKFeUIF1d/view?usp=sharing)
+
 ## Repository Structure
 
 - **PanoDiffusion/**  
