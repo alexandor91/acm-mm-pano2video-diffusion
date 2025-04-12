@@ -2,7 +2,7 @@
 
 This repository contains code for core models, and evaluation and common pre-processing utility tools for **Video Diffusion** experiments. It includes large video files and resources for demonstrating and evaluating the performance of diffusion-based models for video synthesis.
 
-As demo video requires lfs to download due to storage limit of github, so the original high resolution video for full dmeo is compresses to make it no larger than 25MB, and there is some quality loss for demo video.
+As demo video requires lfs to download due to storage limit of github, so the original high resolution video for full dmeo is compresses to make it no larger than 25MB, and there is some quality loss for demo video. If the link is broken try to download acmmm-demo.zip in the same folder.
 ## Repository Structure
 
 - **PanoDiffusion/**  
@@ -25,7 +25,7 @@ As demo video requires lfs to download due to storage limit of github, so the or
 - Large-scale video diffusion implementations.
 - Panoramic video generation using diffusion models.
 - Evaluation tools for metrics such as FVD and mTSED.
-- Pretrained models and demo outputs.
+- Pretrained models and demo ofdemozutputs.
 
 ## Requirements
 
