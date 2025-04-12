@@ -1,4 +1,4 @@
-# CVPR Video Diffusion
+# Video Diffusion
 
 This repository contains code for core models, and evaluation and common pre-processing utility tools for **Video Diffusion** experiments. It includes large video files and resources for demonstrating and evaluating the performance of diffusion-based models for video synthesis.
 
@@ -38,6 +38,5 @@ As demo video requires lfs to download due to storage limit of github, so the or
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/alexandor91/CVPRVideoDiffusion.git
-   cd CVPRVideoDiffusion
-
+   git clone https://github.com/alexandor91/acm-mm-pano2video-diffusion.git
+   cd acm-mm-pano2video-diffusion-main
